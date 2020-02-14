@@ -1,9 +1,9 @@
 1. Abrir index.html
 2. Copiar y pegar el codigo HTML
 3. Modificar imagen, titulo, descripcion y enlace en el bloque copiado
-4. Abrir la terminal de VSCode con "ctrl + ñ"
+4. Abrir la terminal de VSCode con "ctrl + ñ"git
 5. Verificar el estado del documento con "git status"
 6. Si hay cambios, agregar los cambios al commit con "git add ."
 7. Ponerle un nombre al commit con 'git commit -m "insertar tu descripcion" '
 8. Subir los cambios a githubpages "git push origin master"
-9. Si quieres ver los cambios inmediatamente, abre "edge"
+9. Si quieres ver los cambios inmediatamente, abre "edge"GIT PUSH O
