@@ -1896,6 +1896,10 @@ a {
     left: -1rem;
   }
 }
+.cid-s48OLK6784 .gallery3 img {
+  max-width: 253px;
+  max-height: 355px;
+}
 .cid-scpHD2fySJ {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -1943,53 +1947,6 @@ a {
 }
 .cid-scpHD2fySJ .item-subtitle {
   text-align: left;
-}
-.cid-scpNX4meMh {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-scpNX4meMh .item:focus,
-.cid-scpNX4meMh span:focus {
-  outline: none;
-}
-.cid-scpNX4meMh .item {
-  cursor: pointer;
-  margin-bottom: 2rem;
-}
-.cid-scpNX4meMh .item-wrapper {
-  position: relative;
-  border-radius: 4px;
-  background: #fafafa;
-  height: 100%;
-  display: flex;
-  flex-flow: column nowrap;
-}
-@media (min-width: 992px) {
-  .cid-scpNX4meMh .item-wrapper .item-content {
-    padding: 2rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-scpNX4meMh .item-wrapper .item-content {
-    padding: 1rem;
-  }
-}
-.cid-scpNX4meMh .mbr-section-btn {
-  margin-top: auto !important;
-}
-.cid-scpNX4meMh .mbr-section-title {
-  color: #232323;
-}
-.cid-scpNX4meMh .mbr-text,
-.cid-scpNX4meMh .mbr-section-btn {
-  text-align: left;
-}
-.cid-scpNX4meMh .item-title {
-  text-align: left;
-}
-.cid-scpNX4meMh .item-subtitle {
-  text-align: center;
 }
 .cid-sclgRRK0ft {
   padding-top: 30px;
